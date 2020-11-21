@@ -1,0 +1,21 @@
+.first-design{
+    border-Radius: 0px 50px 0px 50px;
+    background-color: white ;
+}
+
+.second-design{
+    border-Radius: 50px 0px 50px 0px;
+    background-color: white ;
+}
+
+.uniq{
+    background-image:  linear-gradient(to right,#1CD8BA, #07ACEC);
+}
+
+.achievement{
+    background-color: rgb(234, 248, 241);
+}
+
+.achievement img{
+    height: 50px ;
+}

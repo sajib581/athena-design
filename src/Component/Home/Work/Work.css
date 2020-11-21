@@ -1,0 +1,9 @@
+.work img{
+    width : 75px ;
+}
+
+.border-design:hover{
+    border : 1px solid black ;
+    border-Radius: 50px 0px 50px 0px;
+
+}
